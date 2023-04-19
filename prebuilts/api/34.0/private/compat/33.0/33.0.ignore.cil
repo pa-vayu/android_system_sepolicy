@@ -82,4 +82,8 @@
     hal_can_controller_service
     zoned_block_device
     future_pm_prop
+    vendor_sysfs_dc_dim
+    sysfs_fastcharge
+    sysfs_powershare
+    vendor_kineticsxr_prop
   ))
